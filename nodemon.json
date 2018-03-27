@@ -1,0 +1,8 @@
+{
+    "verbose": false,
+    "watch": [
+        "lib"
+    ],
+    "ext": "ts,tsx,js,jsx,json,php,css,txt,jpg,png,html",
+    "exec": "ts-node ./lib/index.ts"
+}
